@@ -17,7 +17,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import Login from './component/login';
+import Login from './component/loginView';
 import {
   Colors,
   DebugInstructions,
